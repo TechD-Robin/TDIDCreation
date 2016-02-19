@@ -1,6 +1,24 @@
 
 # TechD-Robin/TDIDCreation
 
+類似 3D 工業設計的輸出集合.
+
+
+
+## 目錄
+
+| 子目錄 | 概述 |
+| :----- | :--- |
+| 3D Printer\Filament reel holder - HDD Step Motor | ATOM 3D 印表機料架裝置 |
+| ArticlesForDailyUse\Cups | 馬克杯杯蓋  |
+
+
+
+## 進階說明
+
+若有進階說明，請檢視各子目錄當中的毒我。
+
+
 
 ## License
 
@@ -11,3 +29,15 @@
 
 
 
+----
+
+<!-- hide these references.
+
+https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+http://creativecommons.tw/
+http://creativecommons.org/licenses/by-sa/3.0/tw/
+http://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
+
+-->

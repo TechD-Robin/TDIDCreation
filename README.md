@@ -1,6 +1,20 @@
 
 # TechD-Robin/TDIDCreation
 
+Collections of similar 3D industrial design.
+
+## Catalogues
+
+| Sub-directories | Summary |
+| :----- | :--- |
+| 3D Printer\Filament reel holder - HDD Step Motor | ATOM 3D printer Filament reel holder |
+| ArticlesForDailyUse\Cups | Mug lid  |
+
+
+
+## Advanced description
+
+If these sub-directories has advanced description, please find README under the folder.
 
 
 
