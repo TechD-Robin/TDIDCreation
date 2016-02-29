@@ -8,6 +8,7 @@ Collections of similar 3D industrial design.
 | Sub-directories | Summary |
 | :----- | :--- |
 | 3D Printer\Filament reel holder - HDD Step Motor | ATOM 3D printer Filament reel holder |
+| 3D Printer\Filament Guide                        | Filament Guide's Bracket |
 | ArticlesForDailyUse\Cups | Mug lid  |
 
 

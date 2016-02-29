@@ -1,4 +1,4 @@
-# Filament reel holder - HDD Step Motor
+# Filament Guide
 
 ## English
 
@@ -14,6 +14,7 @@ Please reference [Summary of Thingiverse.md][reference summary]
 
 ----
 [reference summary]: Summary%20of%20Thingiverse.md
-[reference link]: http://techdrobin.blogspot.com/2016/02/blender-3d-hitachi-hdd.html
+[reference link]: http://techdrobin.blogspot.com/2016/03/blender-3d-608.html
+
 
 
