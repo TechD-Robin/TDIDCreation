@@ -22,8 +22,8 @@
 
 | other part | Amount |
 | :--------- | :----- |
-| 25x25x10 mm DC 12V                | 2 |
-| M3 15.0 mm 螺絲                   | 8 |
+| 25x25x10 mm DC 12V Fan            | 2 |
+| M3 15.0 mm Screw                  | 8 |
 | <STRIKE> M3 13.0 mm Screw with Washer </STRIKE> | <STRIKE> 4 </STRIKE> |
 | Mini Fit Connector Female 2P      | 2 |
 | Mini Fit Connector Male 2P        | 2 |
