@@ -7,9 +7,10 @@ Collections of similar 3D industrial design.
 
 | Sub-directories | Summary |
 | :----- | :--- |
-| 3D Printer\Filament reel holder - HDD Step Motor | ATOM 3D printer Filament reel holder  |
-| 3D Printer\Filament Guide                        | Filament Guide's Bracket              |
-| 3D Printer\Fan Duct for Hot End                  | Fan Duct for Hot End for ATOM3DP 1.0  |
+| 3D Printer\35x35x10mm Fan Duct for Effector      | 35mm Fan Duct for Hot End for ATOM3DP 1.0  |
+| 3D Printer\Filament reel holder - HDD Step Motor | ATOM 3D printer Filament reel holder       |
+| 3D Printer\Filament Guide                        | Filament Guide's Bracket                   |
+| 3D Printer\Fan Duct for Hot End                  | Fan Duct for Hot End for ATOM3DP 1.0       |
 | ArticlesForDailyUse\Cups | Mug lid  |
 
 
